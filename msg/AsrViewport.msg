@@ -20,6 +20,7 @@ geometry_msgs/Pose pose
 # list of object types searched in the viewport
 string[] object_type_name_list
 
+# Parameters of the viewport
 float32 fovx
 float32 fovy
 float32 ncp
