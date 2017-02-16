@@ -8,7 +8,7 @@
 	  They are of critical importance and structured by the ROS communication capabilities.
 	</description>
 	<author>Kleinert Daniel, Meißner Pascal, Yi Xie</author>
-	<maintainer email="pascal.meissner@posteo.de">Meißner Pascal</maintainer>
+	<maintainer email="asr-ros@lists.kit.edu">Meißner Pascal</maintainer>
         <license>BSD</license>
 	<url type="website">http://ros.org/wiki/asr_msgs</url>
 
