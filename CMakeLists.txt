@@ -13,10 +13,7 @@ find_package(catkin REQUIRED COMPONENTS
 add_message_files(DIRECTORY msg FILES 
 	AsrObject.msg 
 	AsrTypeAndId.msg
-	AsrSceneGraph.msg 
-	AsrNode.msg
 	AsrObservations.msg 
-	AsrPriorKnowledge.msg 
 	AsrGlove.msg 
 	AsrAttributedPointCloud.msg
 	AsrAttributedPoint.msg
