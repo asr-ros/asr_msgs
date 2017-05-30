@@ -13,7 +13,6 @@ find_package(catkin REQUIRED COMPONENTS
 add_message_files(DIRECTORY msg FILES 
 	AsrObject.msg 
 	AsrTypeAndId.msg
-	AsrObservations.msg 
 	AsrGlove.msg 
 	AsrAttributedPointCloud.msg
 	AsrAttributedPoint.msg
