@@ -3,7 +3,8 @@
 	<name>asr_msgs</name>
 	<version>1.1.0</version>
 	<description>
-	  This package contains all messages that are particular to our Active Scene Recognition - Framework at HIS. 
+	  This package contains all messages that are particular to our Active Scene Recognition - Framework at 
+		Humanoids and Intelligence Systems Lab (HIS), Karlsruhe Institute of Technology (KIT).
 	  These messages make up the interfaces between the different collaborating components of this system.
 	  They are of critical importance and structured by the ROS communication capabilities.
 	</description>
