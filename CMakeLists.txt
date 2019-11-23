@@ -24,5 +24,5 @@ generate_messages(DEPENDENCIES
 	std_msgs)
 
 catkin_package(
-	CATKIN_DEPENDS	std_msgs geometry_msgs
+	CATKIN_DEPENDS message_runtime std_msgs geometry_msgs
 )
