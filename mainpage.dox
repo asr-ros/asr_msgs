@@ -1,0 +1,8 @@
+/**
+\mainpage
+\htmlinclude manifest.html
+
+\b asr_msgs is a package which contains all messages that are particular to our Active Scene Recognition - Framework at Humanoids and Intelligence Systems Lab (HIS), Karlsruhe Institute of Technology (KIT). These messages make up the interfaces between the different collaborating components of this system. They are of critical importance and structured by the ROS communication capabilities.
+
+
+*/
